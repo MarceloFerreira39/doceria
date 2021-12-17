@@ -1,2 +1,2 @@
-# doceria
-Single page - HTML5 with CSS3
+## doceria
+Single page - HTML5 & CSS3
