@@ -43,5 +43,14 @@ a {
    margin-left: auto;
    margin-right: auto;
    width: 200px;
-   border: 1px solid red;
+  
+}
+
+.logo-doceria {
+    width: 60px;
+    height: 60px;
+    display: block; /*garantir que a logo vai ficar em uma linha só*/
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
 }
